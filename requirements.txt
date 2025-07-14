@@ -1,0 +1,6 @@
+langchain-community
+langchain
+faiss-cpu
+gradio
+sentence-transformers
+jq
